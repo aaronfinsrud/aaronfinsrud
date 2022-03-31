@@ -6,4 +6,4 @@ Two fun facts about me:
 - I bike toured from St. Augustine, FL to Los Angeles, CA in 2010 🚲
 - The 'rud' in Fins-rud is Old Norse for "clearing in the woods" 🌲
 
-Interested in chatting? Message me here on LinkedIn
+Interested in chatting? Send me a message at aaronfinsrud `AT` gmail `DOT` com
