@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I am a linguist turned full-stack developer 👨‍💻 with a non-traditional background in finance, marketing, and AdTech. I am passionate about finding simple solutions to complex problems and making processes more efficient through automation.
+I am a linguist turned full-stack developer 👨‍💻 with experience in finance, marketing, and AdTech. I am passionate about finding simple solutions to complex problems and making processes more efficient.
 
 Two fun facts about me:
 - I bike toured from St. Augustine, FL to Los Angeles, CA in 2010 🚲
-- The 'rud' in Fins-rud is Old Norse for "clearing in the woods" 🌲
-
-Interested in chatting? Send me a message at aaronfinsrud `AT` gmail `DOT` com
+- I have a pet cat named Millie 🐈
